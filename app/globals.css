@@ -1,0 +1,4 @@
+/* app/globals.css - এই content দিয়ে replace করুন */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
